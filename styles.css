@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+    box-sizing:border-box;
+}
+
+.text-container{
+	border:0.5px solid black;
+	padding:0.5rem;
+	background-color:whitesmoke;
+}
+.btn1{
+	font-size:1.0rem;
+	padding:0.8rem;
+	background-color:#24a0ed;
+	color:white;
+	border:none;
+	border-radius:0.2rem;
+}
+.card-main-contanier{
+	margin-top:2rem;
+	border:1px solid black;
+}
